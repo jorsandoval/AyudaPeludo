@@ -12,7 +12,7 @@
     border: 2cm;
 }
 
-p{
+p,h1,h2{
     text-align: center;
     margin-left: 30px;
     margin-right: 30px;
@@ -21,4 +21,36 @@ p{
     margin-right: 20px;
     margin-bottom: 20px;
     margin-left: 20px;*/
+}
+
+.ayuda{
+    text-align: center;
+}
+.contimg{;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.contdes{
+    float: right;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 300px;
+}
+.contdes1{
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 300px;
+}
+.contdes2{
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 300px;
+}
+
+.img {
+    width: 500px;
 }
