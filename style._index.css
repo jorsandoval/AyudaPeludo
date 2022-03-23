@@ -23,6 +23,10 @@ p,h1,h2{
     margin-left: 20px;*/
 }
 
+body{
+    background-color: #09706b;
+}
+
 .ayuda{
     /* text-align: center; */
     display: flex;
@@ -31,31 +35,20 @@ p,h1,h2{
     align-items: center;
     align-content: center;
 }
-.contimg{;
-    float: left;
-    margin-left: 30px;
-    margin-right: 30px;
-}
 
 .contdes{
-    float: right;
-    margin-left: 30px;
-    margin-right: 30px;
-    width: 300px;
-}
-.contdes1{
     display: flex;
-    margin-left: 30px;
-    margin-right: 30px;
-    width: 300px;
-}
-.contdes2{
-    text-align: left;
-    margin-left: 30px;
-    margin-right: 30px;
-    width: 300px;
+    margin: 50px;
+    align-content: stretch;
+    align-items: center;
 }
 
 .img {
     width: 500px;
+}
+
+.Imgdv {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
 }
