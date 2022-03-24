@@ -21,13 +21,13 @@ body {
 
 .menu {
     width: 20%;
-    height: 1090px;
+    height: 960px;
     background-color: #01466B;
 }
 
 .contenedor-principal {
     width: 80%;
-    height: 1090px;
+    height: 960px;
 }
 
 .cont1{
@@ -90,7 +90,7 @@ a {
 }
 
 a:link {
-color: #265301;
+color: #7b8178;
 }
 
 /*a:visited {
