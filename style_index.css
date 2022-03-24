@@ -86,11 +86,12 @@ ul{
 a {
     text-decoration: none;
     color: #f5f0ed;
-    
+    font-size: large;
 }
 
 a:link {
 color: #7b8178;
+
 }
 
 /*a:visited {
