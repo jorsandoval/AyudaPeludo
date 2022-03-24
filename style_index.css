@@ -111,3 +111,6 @@ a:active {
 background: #b8b806;
 color: hsl(95, 62%, 16%);
 }*/
+footer {
+    height: 0px;
+}
