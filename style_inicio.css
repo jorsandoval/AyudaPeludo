@@ -48,17 +48,24 @@ table {
 	border-spacing: 0;
 }
 /*Termino del Reset CSS */
-
+.body {
+    height: 100%;
+    background-color: dimgrey;
+}
 .Menu{
+    float: right;
     display: flex;
     flex-direction: row;
     width: 20%;
+    height: 100%;
     align-items: stretch;
 }
 .Restante{
+    float: rightM;
     display: flex;
     flex-direction: row-reverse;
     width: 80%;
+    height: 100%;
     align-items:
      stretch;
 }
