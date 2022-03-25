@@ -78,7 +78,7 @@ li{
 ul{
     text-align: center;
     list-style-type: none;
-    width: 50%;
+    
 }
 
 a {
@@ -107,11 +107,12 @@ background: #025b8b;
     margin-left: 20px;*/
 }*/
 
+/*
 .centrado_head {
     text-align: center;
     border: 2cm;
 }
-
+*/
 /*p,h1,h2{
     text-align: center;
     margin-left: 30px;
