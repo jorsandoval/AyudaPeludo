@@ -14,20 +14,20 @@ body {
 }
 .contenedor{
     width: 100%;
-    height: 1090px;
+    height: 1080px;
     display: flex;
     flex-wrap: wrap;
 }
 
 .menu {
     width: 20%;
-    height: 960px;
+    height: 1080px;
     background-color: #01466B;
 }
 
 .contenedor-principal {
     width: 80%;
-    height: 960px;
+    height: 1080px;
 }
 
 .cont1{
