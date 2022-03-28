@@ -55,6 +55,7 @@ background: #025b8b;
     height: 20%;
     padding: 50px 30px 40px 30px;
     text-align: justify;
+    overflow: hidden;
 }
 
 .caja2 {
@@ -84,6 +85,7 @@ background: #025b8b;
     flex-direction: row;
     justify-content: flex-start;
     padding-right: 50%;
+    margin: 10px 10px;
 }
 
 .img{
@@ -148,8 +150,8 @@ ul{
     font-size:x-large;
 }
 
-.hipervinternos:link {
-   color:#7b8178;
+.hipervinternos:link{
+    color:#31800a;
 }
 
 .hipervinternos:hover{
