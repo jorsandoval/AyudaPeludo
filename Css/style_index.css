@@ -95,7 +95,7 @@ color: #f5f0ed;
 }
 
 a:hover {
-/*border-bottom: 1px;*/
+border-bottom: 1px;
 background: #025b8b;
 font-weight: bold   ;
 }
