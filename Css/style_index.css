@@ -97,6 +97,7 @@ color: #7b8178;
 a:hover {
 border-bottom: 1px;
 background: #025b8b;
+font-weight: bold   ;
 }
 /*
 a:active {
