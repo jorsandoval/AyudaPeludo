@@ -33,19 +33,12 @@ body {
 
 .cont1{
     width: 100%;
-    height: 50%;
+    height: 100%;
     background-color: #4AB5EE;
     padding: 50px 60px 40px 60px;
     text-align: justify;
 }
 
-.cont2{
-    width: 100%;
-    height: 50%;
-    background-color: #0299EB;
-    padding: 50px 60px 40px 60px;
-    text-align: justify;
-}
 
 h1{
     font-size:larger;
@@ -88,14 +81,7 @@ background: #025b8b;
     --width: 300px;
     overflow: hidden;
     padding: 20px;
-}
-
-.Imgdv2{
-    float: right;
-    height: 300px;
-    width: 300px;
-    overflow: hidden;
-    padding: 20px;
+    text-align: justify;
 }
 
 .img{
