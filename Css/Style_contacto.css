@@ -84,8 +84,8 @@ background: #025b8b;
 
 .Imgdv1{
     float: left;
-    height: 300px;
-    width: 300px;
+    --height: 300px;
+    --width: 300px;
     overflow: hidden;
     padding: 20px;
 }
